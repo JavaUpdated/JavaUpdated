@@ -18,4 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaUpdated&hide=javascript,css,scss,html&theme=tokyonight)
 
-![fissh](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![fissh](https://github-readme-stats.vercel.app/api?username=JavaUpdated&theme=blue-green)
