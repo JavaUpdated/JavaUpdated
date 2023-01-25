@@ -1,14 +1,3 @@
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
-
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
-
-**My Reseach Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-
  **Facts About me**:
 
 - i am from brazil
