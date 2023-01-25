@@ -2,15 +2,3 @@
 - Banana Cakes Looks Good
 
 ![TellEmWassup](https://i.imgur.com/xnaGFhV.jpeg)
-
-#### Languages:
-
-![Java]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white))&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Batch](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
-#### Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaUpdated&hide=javascript,css,scss,html&theme=tokyonight)
-
-![fissh](https://github-readme-stats.vercel.app/api?username=JavaUpdated&theme=blue-green)
