@@ -1,9 +1,3 @@
-### Wassup,Dude I'm [Java](https://github.com/JavaUpdated) but you can call me as toddyn
-
-**Facts About me**:
-
-- i am from brazil
-- i like make roblox scripts
 #### BananaCake:
 - Banana Cakes Looks Good
 
@@ -11,7 +5,7 @@
 
 #### Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white))&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Batch](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
