@@ -1,4 +1,4 @@
-### Wassup,Dude I'm [Java](JavaUpdated) but you can call me as toddyn
+### Wassup,Dude I'm [Java](https://github.com/JavaUpdated) but you can call me as toddyn
 
 **Facts About me**:
 
@@ -6,7 +6,7 @@
 - i like make roblox scripts
 **LOL Moment**:
 - Banana Cakes Looks Good
-![BadMemeIfDontShowSorry](shorturl.at/dsMV9))&nbsp;
+![BadMemeIfDontShowSorry](shorturl.at/dsMV9)&nbsp;
 
 #### Languages:
 
@@ -19,5 +19,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaUpdated&hide=javascript,css,scss,html&theme=tokyonight)
 
 ![fissh](https://github-readme-stats.vercel.app/api?username=JavaUpdated&theme=blue-green)
-
-![Slider]([https://starchart.cc/JavaUpdated/{repo}.svg)
