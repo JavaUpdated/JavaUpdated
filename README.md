@@ -1,8 +1,5 @@
 ### yo
 
-<!--
-**JavaUpdated/JavaUpdated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - i am from brazil
 - i like make roblox scripts
 - i like trains
