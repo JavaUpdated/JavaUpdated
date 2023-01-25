@@ -6,7 +6,8 @@
 - i like make roblox scripts
 **LOL Moment**:
 - Banana Cakes Looks Good
-![BadMemeIfDontShowSorry](shorturl.at/dsMV9)&nbsp;
+
+[![TellEmWassup]([https://i.imgur.com/Vsf0Njv.png](https://i.kym-cdn.com/photos/images/original/002/270/117/448.jpg))
 
 #### Languages:
 
