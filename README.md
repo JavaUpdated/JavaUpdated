@@ -7,7 +7,7 @@
 **LOL Moment**:
 - Banana Cakes Looks Good
 
-[![TellEmWassup]([https://i.imgur.com/Vsf0Njv.png](https://i.kym-cdn.com/photos/images/original/002/270/117/448.jpg))
+![TellEmWassup]([https://i.imgur.com/Vsf0Njv.png](https://i.kym-cdn.com/photos/images/original/002/270/117/448.jpg))
 
 #### Languages:
 
