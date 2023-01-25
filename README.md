@@ -1,5 +1,6 @@
-### yo
+### yo i am JavaUpdated olololol
 
+!!!!!!!!!!!!!!!!!FACTS ABOUT ME LOL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - i am from brazil
 - i like make roblox scripts
 - i like trains
