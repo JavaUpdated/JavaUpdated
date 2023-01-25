@@ -20,4 +20,4 @@
 
 ![fissh](https://github-readme-stats.vercel.app/api?username=JavaUpdated&theme=blue-green)
 
-![Slider]([https://starchart.cc/{username}/{repo}.svg)
+![Slider]([https://starchart.cc/{JavaUpdated}/{repo}.svg)
